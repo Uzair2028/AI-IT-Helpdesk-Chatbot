@@ -1,0 +1,149 @@
+
+TECHNOVA SOLUTIONS
+VPN USER GUIDE
+
+Version: 1.0
+
+====================================================
+
+1. PURPOSE
+
+The Virtual Private Network (VPN) allows employees to securely access company resources while working remotely.
+
+====================================================
+
+2. SYSTEM REQUIREMENTS
+
+• Windows 10 or later
+• macOS 12 or later
+• Stable internet connection
+• Company VPN Client installed
+
+====================================================
+
+3. HOW TO CONNECT
+
+Step 1:
+Open the TechNova VPN Client.
+
+Step 2:
+Enter your company email address.
+
+Step 3:
+Enter your password.
+
+Step 4:
+Complete Multi-Factor Authentication (MFA).
+
+Step 5:
+Click the Connect button.
+
+====================================================
+
+4. COMMON VPN ERRORS
+
+Error:
+Authentication Failed
+
+Possible Causes:
+• Incorrect password
+• Expired password
+• Incorrect email address
+
+Solution:
+Reset your password and try again.
+
+----------------------------------------------------
+
+Error:
+Unable to Reach VPN Server
+
+Possible Causes:
+• Internet connection unavailable
+• Company VPN servers under maintenance
+
+Solution:
+Check internet connection and try again after 10 minutes.
+
+----------------------------------------------------
+
+Error:
+Connection Timed Out
+
+Solution:
+Restart the VPN client and reconnect.
+
+====================================================
+
+5. SECURITY RULES
+
+• Never share VPN credentials.
+• Always disconnect after work.
+• Do not use public Wi-Fi without VPN.
+• Report suspicious login activity immediately.
+
+====================================================
+
+6. TROUBLESHOOTING
+
+Problem:
+VPN keeps disconnecting.
+
+Possible Solution:
+• Restart your computer.
+• Restart your router.
+• Update VPN client.
+• Check firewall settings.
+
+----------------------------------------------------
+
+Problem:
+MFA code not received.
+
+Possible Solution:
+• Check Authenticator App.
+• Verify phone date and time.
+• Contact IT Support.
+
+====================================================
+
+7. FAQs
+
+Q:
+Can I use VPN outside Pakistan?
+
+Answer:
+Yes, VPN can be used from any country.
+
+----------------------------------------
+
+Q:
+Can I use VPN on mobile?
+
+Answer:
+Yes, Android and iOS are supported.
+
+----------------------------------------
+
+Q:
+Can I stay connected all day?
+
+Answer:
+Yes, but disconnect when work is complete.
+
+====================================================
+
+8. CONTACT IT
+
+Email:
+itsupport@technova.com
+
+Office Hours:
+Monday-Friday
+9 AM - 6 PM
+
+Emergency Hotline:
++1-800-555-1000
+
+====================================================
+END OF DOCUMENT

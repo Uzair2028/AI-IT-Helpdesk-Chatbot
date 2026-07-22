@@ -1,0 +1,92 @@
+
+TECHNOVA SOLUTIONS
+IT POLICY MANUAL
+
+Version: 1.0
+
+========================================
+
+1. PASSWORD POLICY
+
+• Password must contain at least 8 characters.
+• Password must include one uppercase letter.
+• Password must include one lowercase letter.
+• Password must include one number.
+• Password must include one special character.
+• Employees must change passwords every 90 days.
+• Passwords must never be shared with anyone.
+
+========================================
+
+2. MULTI-FACTOR AUTHENTICATION (MFA)
+
+• MFA is mandatory for all company accounts.
+• Use Microsoft Authenticator or Google Authenticator.
+• Never approve unknown login requests.
+
+========================================
+
+3. EMAIL POLICY
+
+• Company email should only be used for work purposes.
+• Do not open suspicious email attachments.
+• Report phishing emails immediately.
+• Never share confidential company information over personal email.
+
+========================================
+
+4. SOFTWARE INSTALLATION
+
+• Employees cannot install unauthorized software.
+• Software requests should be submitted to the IT department.
+• Only licensed software is permitted.
+
+========================================
+
+5. INTERNET USAGE
+
+• Internet should be used primarily for business purposes.
+• Downloading pirated software is prohibited.
+• Access to malicious websites is blocked.
+
+========================================
+
+6. COMPANY LAPTOP POLICY
+
+• Employees are responsible for company laptops.
+• Do not disable antivirus software.
+• Lock your computer before leaving your desk.
+• Report lost or stolen devices immediately.
+
+========================================
+
+7. REMOTE WORK
+
+• VPN must be used when working remotely.
+• Public Wi-Fi should be avoided.
+• Sensitive company data must never be stored on personal devices.
+
+========================================
+
+8. DATA SECURITY
+
+• Confidential files should only be stored on approved company systems.
+• USB devices should not be used without approval.
+• Report any suspected security incidents immediately.
+
+========================================
+
+9. CONTACT IT SUPPORT
+
+Email:
+itsupport@technova.com
+
+Working Hours:
+Monday-Friday
+9:00 AM - 6:00 PM
+
+Emergency Hotline:
++1-800-555-1000
+
+========================================
+END OF DOCUMENT
